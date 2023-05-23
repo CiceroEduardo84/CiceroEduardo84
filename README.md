@@ -1,9 +1,9 @@
-- 🤓 Cicero Eduardo
+- 😁 Cicero Eduardo
 - 💻 Apaixonado por Tecnologia
 - 💻 Foco em tecnologias para desenvolvimento Fullstack
 - 💻 Desenvolvedor de Sistemas
 - 🎲 Administrador de Banco de Dados
-- 🤔 Uso lógica para resolver problemas
+- 🤓 Uso lógica para resolver problemas
 - 📱 Sempre conectado com as novas tecnologias
 - 🦝 Curioso e pronto para aprender
 
