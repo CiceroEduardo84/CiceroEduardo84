@@ -7,7 +7,7 @@
 - 📱 Sempre conectado com as novas tecnologias
 - 🦝 Curioso e pronto para aprender
 
-## Olá, Sou Cicero Eduardo, e sou Desenvolvedor FullStack apaixonado por tecnologia
+## Olá, Sou Cicero Eduardo, e sou Desenvolvedor FullStack apaixonado por tecnologia.
 <div align="center">
   <a href="https://github.com/CiceroEduardo24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroEduardo24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
