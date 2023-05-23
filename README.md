@@ -10,8 +10,8 @@
 ## Olá, Sou Cicero Eduardo, e sou Desenvolvedor FullStack apaixonado por tecnologia
 <div align="center">
   <a href="https://github.com/CiceroEduardo24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cicero-eduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicero-eduardo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cicero-Eduardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicero-Eduardo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
