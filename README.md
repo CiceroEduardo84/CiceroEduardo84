@@ -9,7 +9,7 @@
 
 ## Olá, Sou Cicero Eduardo, e sou Desenvolvedor FullStack apaixonado por tecnologia
 <div align="center">
-  <a href="https://github.com/Emeson-Borges">
+  <a href="https://github.com/CiceroEduardo24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emeson-borges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeson-borges&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -30,9 +30,9 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/emesonboorges/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:borges2016.leh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emeson-borges-1539b3126/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ciceroeduardo84/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ciceroeduardobarbosa@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cicero-eduardo-b6685a274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
