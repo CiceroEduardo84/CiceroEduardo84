@@ -8,13 +8,14 @@
 - 📱 Sempre conectado com as novas tecnologias
 - 🦝 Curioso e pronto para aprender
 
-## Olá, Sou Cicero Eduardo, e sou Desenvolvedor FullStack apaixonado por tecnologia.
+#### 💻 Estatísticas
 <div align="center">
   <a href="https://github.com/CiceroEduardo24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroEduardo24&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroEduardo24&layout=compact&langs_count=7&theme=radical"/>
     
 </div>
+  #### :rocket: Linguagens e Frameworks
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/php_horizontal_logo_icon_170852.png">
@@ -27,7 +28,7 @@
   
 </div>
   
-  ##
+  #### :coffee: Quer falar comigo?
  
 <div> 
   <a href="https://www.instagram.com/ciceroeduardo84/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
