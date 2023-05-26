@@ -1,4 +1,5 @@
-- 😁 Cicero Eduardo
+## Hi there 👋
+#### :wave: E aí? eu sou o <a href="https://www.linkedin.com/in/cicero-eduardo-b6685a274/"> Cicero Eduardo </a> 
 - 💻 Apaixonado por Tecnologia
 - 💻 Foco em tecnologias para desenvolvimento Fullstack
 - 💻 Desenvolvedor de Sistemas
