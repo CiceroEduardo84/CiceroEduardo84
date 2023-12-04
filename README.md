@@ -31,11 +31,11 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/CiceroEduardo24">
+  <a href="https://github.com/CiceroEduardo84">
   <img height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=CiceroEduardo24&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=CiceroEduardo84&show_icons=true&theme=dark&includ_all_commits=true&count_private=true"/>
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroEduardo24&layout=compact&langs_count=8&theme=dark"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroEduardo84&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <br>
